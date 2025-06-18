@@ -2,7 +2,7 @@
 
 **Drum-Stick** is an interactive web project that turns your keyboard into a virtual drum kit! Press different keys to trigger unique drum sounds and create your own beats in real time.
 
-🌐 **Live Demo**: [ar-aryanrai.github.io/Drum-Stick](https://ar-aryanrai.github.io/Drum-Stick/)
+🌐 **Live Demo**: [Check out my Drum-Stick project](https://ar-aryanrai.github.io/Drum-Stick/)
 
 ---
 
